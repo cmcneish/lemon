@@ -1,4 +1,4 @@
-#Lemon
+# Lemon
 
 https://www.sqlite.org/src/doc/trunk/doc/lemon.html
 
